@@ -1,0 +1,1 @@
+Scprits for shell redirections
